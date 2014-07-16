@@ -6,6 +6,6 @@ enyo.depends(
 	//"Theme.less",	// uncomment this line, and follow the steps described in Theme.less
 	// CSS/LESS style files
   "tools",
-	"/home/chris/repos/pangea/xcore/source",
+	"app.js",
   "extensions"
 );
