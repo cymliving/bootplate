@@ -7,3 +7,6 @@
 [submodule "lib/layout"]
 	path = lib/layout
 	url = ../../enyojs/layout.git
+[submodule "lib/bootstrap"]
+	path = lib/bootstrap
+	url = git@github.com:BryIsAZombie/bootstrap-enyo.git
